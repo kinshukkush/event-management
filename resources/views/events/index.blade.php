@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="max-w-7xl mx-auto mt-8 px-4">
-    <h2 class="text-3xl font-semibold mb-6 text-gray-800">Upcoming Events</h2>
+    <h2 class="text-3xl font-semibold mb-6 text-gray-1000">Upcoming Events</h2>
 
     @if(session('success'))
         <div class="bg-green-100 text-green-800 px-4 py-3 rounded mb-4">
